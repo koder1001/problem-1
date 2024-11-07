@@ -1,0 +1,29 @@
+.one > h1{
+text-align: right;
+}
+.one > h2{
+    text-align: center;
+    width: 300px;
+}
+table{
+  width: 500px;
+}
+th {
+text-align: left;
+}
+td {
+   text-align: center;
+ }
+ .one > p {
+    width: 300px;
+ }
+.two > h1{
+font-size: 50px;
+}
+.two > h2{
+    font-size: 40px;
+    font-weight: normal;
+}
+.two > p{
+   font-size: 30px;
+}
